@@ -45,4 +45,6 @@ class Akinak_ShowNodeModerators_ControllerPublic_Forum extends XFCP_Akinak_ShowN
 		}
 		return $responseView;
 	}
+
+
 }
